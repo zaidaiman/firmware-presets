@@ -49,6 +49,7 @@ set osd_link_tx_power_pos = 2100
 set osd_tim_1_pos = 449
 set osd_tim_2_pos = 417
 set osd_remaining_time_estimate_pos = 450
+set osd_flymode_pos = 2137
 set osd_g_force_pos = 441
 set osd_vtx_channel_pos = 2081
 set osd_current_pos = 54
